@@ -70,8 +70,7 @@ Claude 的风控主要针对 **IP + 非本地信用卡**。
 ##### 4️⃣ 坐等升级成功
 - 输入卡密 + 账号 ID  
 - 几分钟内完成升级  
-
-<img width="800" height="856" alt="image" src="https://github.com/user-attachments/assets/0bb926a6-ba12-4d7a-8572-b441574152d8" />
+<img width="890" height="850" alt="image" src="https://github.com/user-attachments/assets/adb57dd3-8d5d-4447-9eb1-55d749819fd3" />
 
 刷新 Claude 页面，就能看到 **Pro 标识**，Artifacts 随便用，次数限制也解除了。
 
